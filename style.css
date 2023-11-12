@@ -1,0 +1,22 @@
+body {
+    background: rgb(211, 211, 211);
+}
+h1 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+li {
+    padding-top: 20px;
+    font-size: 20px;
+}
+div {
+    font-size: 17px;
+}
+h2 {
+    color: yellow;
+}
